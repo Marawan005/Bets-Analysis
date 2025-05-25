@@ -44,11 +44,8 @@ The analysis is performed using Python with popular data science libraries:
 - A visual summary is available in `BetsPoster.pdf`
 - Watch `BetsDemoVideo.MP4` for a demonstration of the project
 
-## Contributing
+## Team
 Please refer to `Contribution Sheet.docx` for contribution guidelines and project roles.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-For questions or collaboration opportunities, please open an issue in this repository.
+Marwan Khaled 23-101296
+Hany Yasser 23-101107
+Mohamed Emad 23-101018

@@ -45,7 +45,6 @@ The analysis is performed using Python with popular data science libraries:
 - Watch `BetsDemoVideo.MP4` for a demonstration of the project
 
 ## Team
-Please refer to `Contribution Sheet.docx` for contribution guidelines and project roles.
-Marwan Khaled 23-101296
-Hany Yasser 23-101107
-Mohamed Emad 23-101018
+- Marwan Khaled 23-101296
+- Hany Yasser 23-101107
+- Mohamed Emad 23-101018

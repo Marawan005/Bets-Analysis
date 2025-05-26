@@ -40,7 +40,7 @@ The analysis is performed using Python with popular data science libraries:
 - Matplotlib and Seaborn for data visualization
 
 ## Documentation
-- The full analysis and findings are documented in `BetsFinalReport.docx`
+- The full analysis and findings are documented in `Report Template modification.docx`
 - A visual summary is available in `BetsPoster.pdf`
 - Watch `BetsDemoVideo.MP4` for a demonstration of the project
 
